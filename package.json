@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"fs-jetpack": "^5.1.0"
+	}
+}
